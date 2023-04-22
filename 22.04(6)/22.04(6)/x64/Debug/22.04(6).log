@@ -1,0 +1,4 @@
+﻿  22.04(6).cpp
+C:\Users\LENOVO\source\repos\22.04(6)\22.04(6)\22.04(6).cpp(14,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\LENOVO\source\repos\22.04(6)\22.04(6)\22.04(6).cpp(15,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  22.04(6).vcxproj -> C:\Users\LENOVO\source\repos\22.04(6)\x64\Debug\22.04(6).exe
