@@ -1,0 +1,5 @@
+﻿  22.04(5).cpp
+C:\Users\LENOVO\source\repos\22.04(5)\22.04(5)\22.04(5).cpp(8,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\LENOVO\source\repos\22.04(5)\22.04(5)\22.04(5).cpp(9,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\LENOVO\source\repos\22.04(5)\22.04(5)\22.04(5).cpp(10,30): warning C4305: инициализация: усечение из "double" в "float"
+  22.04(5).vcxproj -> C:\Users\LENOVO\source\repos\22.04(5)\x64\Debug\22.04(5).exe
